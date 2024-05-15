@@ -1,0 +1,10 @@
+<!-- res/values/styles.xml -->
+<resources>
+
+
+    <!-- Splash screen theme -->
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/illustration_started</item>
+    </style>
+
+</resources>
